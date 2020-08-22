@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FinalChallengeDay3-Project6-SharedPreferences</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save_btn">Save</string>
 </resources>
